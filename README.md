@@ -1,2 +1,2 @@
-# geo_manager_yform_plugin
+# yform_geo
 Original GEO Manager - yForm Plugin
